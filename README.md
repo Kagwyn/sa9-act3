@@ -1,0 +1,1 @@
+The Python file 'car.py' is the original OOP program created in COMP 1900. The file created in this assignment is 'car.rb', which should be a Ruby equivalent.
